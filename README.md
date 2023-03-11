@@ -35,6 +35,7 @@ Así llegan los productos al firebase:
 
 
 **Así es como funciona:**
+![Gif](images/gif.gif)
 
 ---
 
